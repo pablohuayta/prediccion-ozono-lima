@@ -1,0 +1,8 @@
+Modelo,Exact. bal. 1 día,Exact. bal. 7 días,Exact. bal. 30 días
+Persistencia,0.744,0.602,0.557
+Media mensual,0.604,0.604,0.604
+Regresión logística,0.661,0.673,0.656
+Árbol de decisión,0.753,0.623,0.556
+KNN,0.6,0.484,0.526
+MLP,0.683,0.646,0.672
+Regresión → umbrales,0.671,0.678,0.506

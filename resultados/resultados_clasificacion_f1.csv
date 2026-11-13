@@ -1,0 +1,8 @@
+Modelo,F1 macro 1 día,F1 macro 7 días,F1 macro 30 días
+Persistencia,0.745,0.602,0.557
+Media mensual,0.608,0.607,0.601
+Regresión logística,0.669,0.674,0.657
+Árbol de decisión,0.749,0.619,0.551
+KNN,0.597,0.478,0.505
+MLP,0.686,0.648,0.674
+Regresión → umbrales,0.677,0.682,0.488

@@ -1,0 +1,8 @@
+Modelo,MAE 1 día,MAE 7 días,MAE 30 días
+Persistencia,3.46,5.42,6.27
+Media mensual,5.29,5.3,5.33
+Regresión lineal,3.43,4.62,9.82
+Regresión lineal (Ridge),3.36,4.27,6.96
+Árbol de decisión,3.64,6.29,5.68
+KNN,4.55,4.9,5.54
+MLP,3.68,4.22,5.77
