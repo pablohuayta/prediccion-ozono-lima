@@ -18,6 +18,7 @@ A partir del historial diario de variables atmosféricas de Lima, se pronostica 
 |---|---|
 | `Grupo7_TA_Notebook.ipynb` | Notebook único con todo el trabajo, ya ejecutado |
 | `air_quality_historical.csv` | Dataset: 1298 registros diarios (ago 2022 – feb 2026), un punto de Lima |
+| `Grupo7-TA-Exposicion.pptx` | Presentación de la exposición (con notas del orador) |
 | `figuras/` | Figuras generadas por el notebook |
 | `resultados/` | Tablas de resultados en CSV |
 
